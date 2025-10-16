@@ -63,12 +63,6 @@ The compiled JAR will be in `target/truthordare-1.0.0.jar`
    - **Success**: Receive a reward from the tiered loot table
    - **Failure**: Lose a random item from your inventory
 
-### Special Features for LapisPearl
-
-The player "LapisPearl" gets special progressive rewards:
-- Rewards unlock at dare counts: 1, 2, 3, and 7
-- 25% chance to gain permanent extra hearts (up to 20 total hearts)
-
 ## Technical Details
 
 - **API Version**: 1.21
